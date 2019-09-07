@@ -1,0 +1,6 @@
+name: EagleEye
+version: 1.0
+author: Enayet Hussain (enayet123)
+api-version: 1.14
+main: EagleEyePlugin
+description: Protects a variety of blocks using a wall sign
